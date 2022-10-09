@@ -1,0 +1,19 @@
+body{
+  background-color: black;
+}
+.app{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.calc{
+  margin-top: 50px  ;
+  margin-left:600px ;
+  background-color: white;
+  width: 400px;
+  border-radius: 15px;
+}
+.row{
+  display: flex;
+}
